@@ -1,0 +1,6 @@
+{"error":{"code":201,"message":"password is required"},"level":"error","message":"Error generating response. ParseError { code: 201, message: 'password is required' }","timestamp":"2017-09-07T10:05:36.199Z"}
+{"code":201,"message":"password is required","level":"error","timestamp":"2017-09-07T10:05:36.202Z"}
+{"error":{"code":200,"message":"username is required."},"level":"error","message":"Error handling request: ParseError { code: 200, message: 'username is required.' }","timestamp":"2017-09-07T10:35:19.339Z"}
+{"code":200,"message":"username is required.","level":"error","timestamp":"2017-09-07T10:35:19.342Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2017-09-07T10:35:25.639Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2017-09-07T10:35:25.640Z"}

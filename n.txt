@@ -1,0 +1,4 @@
+- start parse dashboard:
+parse-dashboard --appId myAppId --masterKey yourMasterKey --serverURL "http://localhost:1337/parse" --appName optionalName
+
+parse-dashboard --appId egany2017 --masterKey egany2017 --serverURL "http://172.104.160.117:1337/parse" --appName Restaurant
